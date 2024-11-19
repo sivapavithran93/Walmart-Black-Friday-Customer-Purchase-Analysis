@@ -6,8 +6,8 @@ The objective of this project is to conduct a comprehensive analysis of customer
 
 📝 **Project Report**
 
-- You can access the complete project Python file here: [Python](https://github.com/sivapavithran93/Aerofit-Business-Case-Study-Descriptive-Statistics-Probability/blob/main/Aerofit%20CaseStudy.ipynb).
-- You can access the complete project in PDF format here: [Report](https://github.com/sivapavithran93/Aerofit-Business-Case-Study-Descriptive-Statistics-Probability/blob/main/Aerofit%20CaseStudy%20-%20Pavithran.pdf).
+- You can access the complete project Python file here: [Python](https://github.com/sivapavithran93/Walmart-Black-Friday-Customer-Purchase-Analysis/blob/main/Walmart%20Case%20Study%20Pavithran.ipynb).
+- You can access the complete project in PDF format here: [Report](https://github.com/sivapavithran93/Walmart-Black-Friday-Customer-Purchase-Analysis/blob/main/Walmart%20Case%20Study%20Pavithran.pdf).
 
 📚 **About the Data**
 
